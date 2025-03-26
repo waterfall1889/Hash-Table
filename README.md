@@ -1,4 +1,4 @@
-#Hash-Table
+# Hash-Table
 ## Structure
 - This is a hash-table based upon chain. When two keys has the same hash value, then they will saved as a chain.
 - The hash function is based upon MurmurHash3.
